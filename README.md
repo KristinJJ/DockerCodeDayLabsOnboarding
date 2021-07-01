@@ -1,2 +1,2 @@
-# CodeDayLabsOnboarding
-A place to store the files for CodeDay Labs Onboarding
+# DockerCodeDayLabsOnboarding
+A place to store the files for Docker CodeDay Labs Onboarding
